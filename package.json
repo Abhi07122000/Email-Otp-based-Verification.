@@ -1,0 +1,20 @@
+{
+  "name": "sde-intern-task-backend",
+  "version": "1.0.0",
+  "main": "app.js",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.1.4",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "nodemon": "^2.0.22"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "description": "1. Create a clone of this repo\r 2. Complete the tasks given below\r 3. Create your own public repo on github and push your code there\r 4. Share the repo link as a reply to the mail",
+  "keywords": [],
+  "author": ""
+}
